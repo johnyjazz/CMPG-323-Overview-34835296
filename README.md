@@ -13,3 +13,18 @@ There will be 5 repositories created for the project
 3. CMPG-323-Project-3-34835296 - Used for Project 3 
 4. CMPG-323-Project-4-34835296 - Used for Project 4 
 5. CMPG-323-Project-5-34835296 - Used for Project 5 
+
+##.gitignore file
+Project 1 - .gitignore wont be used
+Project 2 - .gitignore will be used to ignore credentials
+Project 3 - .gitignore will be used to ignore credentials
+Project 4 - .gitignore will include .local,.settings,.tmh,.objects folders
+Project 5 - .gitignore will include node_modules, .tmp and, dist folders
+
+## Credentials and sensitive information
+Hardcoded sensitive information and credentials should be removed from source code and git logs purged
+Encrypted secrets to be used to store sensitive information in repositories
+
+## Branching Strategy
+
+
