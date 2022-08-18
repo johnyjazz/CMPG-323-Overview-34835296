@@ -26,5 +26,6 @@ Hardcoded sensitive information and credentials should be removed from source co
 Encrypted secrets to be used to store sensitive information in repositories
 
 ## Branching Strategy
+Gitflow will be used as a branching strategy to develop the items required
 
 
