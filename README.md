@@ -15,7 +15,7 @@ There will be 5 repositories created for the project
 5. CMPG-323-Project-5-34835296 - Used for Project 5 
 
 ## Project and Repository context
-![](image/projRepo.JPG)
+<img src="image/projRepo.JPG" width ="800">
 
 ##  .gitignore file
 Project 1 - .gitignore wont be used
