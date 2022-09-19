@@ -18,11 +18,11 @@ There will be 5 repositories created for the project
 <img src="image/projRepo.JPG" width ="800">
 
 ##  .gitignore file
-Project 1 - .gitignore wont be used
-Project 2 - .gitignore will be used to ignore credentials
-Project 3 - .gitignore will be used to ignore credentials
-Project 4 - .gitignore will include .local,.settings,.tmh,.objects folders
-Project 5 - .gitignore will include node_modules, .tmp and, dist folders
+Project 1 - .gitignore wont be used  
+Project 2 - .gitignore will be used to ignore credentials  
+Project 3 - .gitignore will be used to ignore credentials  
+Project 4 - .gitignore will include .local,.settings,.tmh,.objects folders  
+Project 5 - .gitignore will include node_modules, .tmp and, dist folders  
 
 ## Credentials and sensitive information
 Hardcoded sensitive information and credentials should be removed from source code and git logs purged
