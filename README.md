@@ -32,3 +32,14 @@ Encrypted secrets to be used to store sensitive information in repositories
 Gitflow will be used as a branching strategy to develop the items required
 
 
+## Project 2  
+
+
+## Project 3  
+
+
+## Project 4  
+
+Before the solution can be deployed into production, it would need to go through UAT where a team of ‘testers’ would have a test dataset containing input data and desired output data. The testers would then insert each record of input data into each field of the web application and test that the desired output is generated. In this case, the desired output would be a new record being displayed on the web application once the item has been added. This would resort in a highly repetitive process which will be automated using RPA.
+
+
