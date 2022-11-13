@@ -33,6 +33,8 @@ Gitflow will be used as a branching strategy to develop the items required
 
 
 ## Project 2  
+This Project will be used to show how to create a CRUD RESTful API that will connect to a database storing IoT device data. The API contains at least one get, post, patch and delete method per resource.  
+<img src="image/landing.JPG" width ="800">
 
 
 ## Project 3  
